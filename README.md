@@ -1,0 +1,2 @@
+# GameTheory
+playable combinatorial game
