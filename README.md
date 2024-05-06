@@ -1,5 +1,5 @@
 # Combinatorial Game Visualization: Nim, Wythoff Nim, and Hackenbush
-This interactive visualization tool allows you to play and explore three classic combinatorial games: Nim, Wythoff Nim, and Hackenbush. The tool allows you to play these games individually or simultaneously.
+This interactive visualization tool allows you to play and explore three classic combinatorial games: Nim, Wythoff Nim, and Hackenbush. The tool allows you to play these games individually or simultaneously. The code for the project is found in the main.py and the AI.py files.
 
 ## Tool Features
 
